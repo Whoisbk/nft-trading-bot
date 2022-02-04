@@ -1,0 +1,1685 @@
+1643448459725	geckodriver	INFO	Listening on 127.0.0.1:55213
+1643448462985	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55214" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileLLESJO"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643448464664	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileLLESJO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55214/devtools/browser/63a55aba-62e7-4bc7-851d-2b00d6a19aa9
+1643448472609	Marionette	INFO	Listening on port 55219
+1643448473160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+1643448554998	Marionette	INFO	Stopped listening on port 55219
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[2022-01-29T09:29:17Z ERROR bitsdownload::bits_interface::monitor] Unable to dispatch to thread: NS_ERROR_ILLEGAL_DURING_SHUTDOWN
+1643448576584	geckodriver	INFO	Listening on 127.0.0.1:55348
+1643448579654	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55349" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileUxWGZD"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643448581603	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileUxWGZD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55349/devtools/browser/c515a604-3df8-40ab-b631-aca3d5e85460
+1643448586599	Marionette	INFO	Listening on port 55355
+1643448586660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+1643448654236	Marionette	INFO	Stopped listening on port 55355
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[2022-01-29T09:31:04Z ERROR bitsdownload::bits_interface::monitor] Unable to dispatch to thread: NS_ERROR_ILLEGAL_DURING_SHUTDOWN
+1643448760509	geckodriver	INFO	Listening on 127.0.0.1:55473
+1643448763613	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55474" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileK19B8l"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643448764941	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileK19B8l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55474/devtools/browser/4161df27-309e-4ff2-9a86-e93100ff66a9
+1643448769935	Marionette	INFO	Listening on port 55479
+1643448769981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+1643448885691	geckodriver	INFO	Listening on 127.0.0.1:55608
+1643448888725	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55609" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileOLFsb1"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643448893847	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileOLFsb1\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:55609/devtools/browser/89abbd25-db47-4f1a-b62d-175e44c8417e
+1643448910037	Marionette	INFO	Listening on port 55614
+1643448911260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 2055: TypeError: currentPanel is undefined
+1643448971216	geckodriver	INFO	Listening on 127.0.0.1:55697
+1643448974222	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55698" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileYZ46w1"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643448977376	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileYZ46w1\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:55698/devtools/browser/92d8ab46-580d-4120-8711-f2183af72341
+1643448994022	Marionette	INFO	Listening on port 55703
+1643448995165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal2147483650/pagestyle32 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal2147483650/pagestyle32 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 365))
+1643449133652	Marionette	INFO	Stopped listening on port 55703
+console.warn: "Inspector destroyed while executing onReflow callback"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[2022-01-29T09:38:56Z ERROR bitsdownload::bits_interface::monitor] Unable to dispatch to thread: NS_ERROR_ILLEGAL_DURING_SHUTDOWN
+1643449151707	geckodriver	INFO	Listening on 127.0.0.1:55836
+1643449154705	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55837" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile9UoNcI"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643449157265	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile9UoNcI\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:55837/devtools/browser/c5d7024a-af2b-4017-8fc2-6005b51b706d
+1643449172480	Marionette	INFO	Listening on port 55842
+1643449175418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+1643449248889	Marionette	INFO	Stopped listening on port 55842
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[2022-01-29T09:40:51Z ERROR bitsdownload::bits_interface::monitor] Unable to dispatch to thread: NS_ERROR_ILLEGAL_DURING_SHUTDOWN
+1643449519130	geckodriver	INFO	Listening on 127.0.0.1:56074
+1643449521978	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56075" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileVwoPhv"
+1643449590539	geckodriver	INFO	Listening on 127.0.0.1:56096
+1643449597627	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56097" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile0oTQxZ"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643449601874	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile0oTQxZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56097/devtools/browser/09255132-49da-418c-b954-ed10fe40d014
+1643449619752	Marionette	INFO	Listening on port 56110
+1643449620838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+1643449745176	Marionette	INFO	Stopped listening on port 56110
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 4868, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643450548955	geckodriver	INFO	Listening on 127.0.0.1:56384
+1643450552470	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56385" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilevAw8Nk"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643450556610	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilevAw8Nk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56385/devtools/browser/b1bc3784-ed9d-42d2-880d-aac60e7724af
+1643450568350	Marionette	INFO	Listening on port 56390
+1643450569737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+1643450663378	Marionette	INFO	Stopped listening on port 56390
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643450743525	geckodriver	INFO	Listening on 127.0.0.1:56516
+1643450746821	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56517" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileaBKHa6"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643450749574	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileaBKHa6\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:56517/devtools/browser/4edfa691-a8b2-4cb8-b52c-4fd83d6c8cd8
+1643450767315	Marionette	INFO	Listening on port 56522
+1643450767423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+1643450881847	Marionette	INFO	Stopped listening on port 56522
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643451852904	geckodriver	INFO	Listening on 127.0.0.1:56808
+1643451857237	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56809" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileV01Weu"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643451867694	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileV01Weu\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:56809/devtools/browser/92195bcd-5c25-4fee-b04e-f25792ec6681
+1643451905548	Marionette	INFO	Listening on port 56817
+1643451906953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+1643452254996	Marionette	INFO	Stopped listening on port 56817
+1643452270709	geckodriver	INFO	Listening on 127.0.0.1:57157
+1643452273940	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57158" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileWTqtas"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643452278806	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileWTqtas\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57158/devtools/browser/afe1cb48-ffe4-4a53-a7d5-26a66e5ee8dc
+1643452291120	Marionette	INFO	Listening on port 57164
+1643452292225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+1643452997438	geckodriver	INFO	Listening on 127.0.0.1:57685
+1643453002816	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57686" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileEOCIay"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643453013148	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileEOCIay\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:57686/devtools/browser/7f44752b-28fe-498b-bc41-224f8a91749f
+1643453048040	Marionette	INFO	Listening on port 57696
+1643453050018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+1643453122839	Marionette	INFO	Stopped listening on port 57696
+[Parent 25416, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643453203768	geckodriver	INFO	Listening on 127.0.0.1:57911
+1643453206949	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57912" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileEDK0hv"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643453215561	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileEDK0hv\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:57912/devtools/browser/1c73b790-301a-45c5-85a3-c28788fece81
+1643453244094	Marionette	INFO	Listening on port 57918
+1643453245096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+1643453508782	Marionette	INFO	Stopped listening on port 57918
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643453511712	geckodriver	INFO	Listening on 127.0.0.1:58186
+1643453514766	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58187" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileXqvbes"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643453521255	geckodriver	INFO	Listening on 127.0.0.1:58202
+1643453524306	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58203" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileHCvj26"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643453526492	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileHCvj26\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:58203/devtools/browser/aeea2ac5-f900-4f46-b272-5cd8dd92fb07
+1643453540260	Marionette	INFO	Listening on port 58210
+1643453541111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+1643453668954	Marionette	INFO	Stopped listening on port 58210
+1643454029994	geckodriver	INFO	Listening on 127.0.0.1:58602
+1643454033282	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58603" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilezcpmPJ"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643454045616	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilezcpmPJ\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:58603/devtools/browser/a347bd63-50c4-446e-9586-8f5bdf9f6f05
+1643454101880	Marionette	INFO	Listening on port 58610
+1643454173864	geckodriver	INFO	Listening on 127.0.0.1:58757
+1643454176876	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58758" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileH77gxb"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643454178941	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileH77gxb\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:58758/devtools/browser/91adb687-3321-44b3-bb9b-d6aee5271f7c
+1643454193690	Marionette	INFO	Listening on port 58765
+1643454197787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+1643454269792	Marionette	INFO	Stopped listening on port 58765
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0148,name=PContent::Msg_ReportFrameTimingData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643454328499	geckodriver	INFO	Listening on 127.0.0.1:58959
+1643454331552	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58960" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilebsTzVE"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643454332590	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilebsTzVE\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:58960/devtools/browser/b737859e-5ba4-4388-9718-2db050d25459
+1643454345543	Marionette	INFO	Listening on port 58968
+1643454347559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 367))
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: "Could not get the list of font families" (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal2147483650/pagestyle44 (resource://devtools/server/actors/page-style.js:367:24)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+console.error: (new TypeError("browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 182))
+1643458068666	Marionette	INFO	Stopped listening on port 58968
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://browser/content/browser.js, line 8070: uncaught exception: undefined
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+[Parent 3464, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:565
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 3464, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+3402-44a7-b7b4-e1d61b7f5613
+1643454766730	Marionette	INFO	Listening on port 59285
+1643454768797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+1643454910410	Marionette	INFO	Stopped listening on port 59285
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[Parent 21156, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1643457585869	geckodriver	INFO	Listening on 127.0.0.1:60928
+1643457597129	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60929" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilezrunEF"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643457615967	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilezrunEF\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:60929/devtools/browser/99aff076-6993-4389-8cc0-653908d2c866
+1643457701828	Marionette	INFO	Listening on port 60951
+1643457743550	geckodriver	INFO	Listening on 127.0.0.1:61064
+1643457746961	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61065" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileFSxcER"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643457753218	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileFSxcER\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:61065/devtools/browser/dc0fc6bf-39e5-4b89-8fee-042bbedad986
+1643457778104	Marionette	INFO	Listening on port 61073
+1643457780195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.2db04aa1e7f440b7e57c.js, line 1: TypeError: window.navigator.connection is undefined
+1643457970487	Marionette	INFO	Stopped listening on port 61073
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643458078612	geckodriver	INFO	Listening on 127.0.0.1:61373
+1643458083547	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61374" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile2qJ9Ef"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643458101461	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile2qJ9Ef\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:61374/devtools/browser/420b980d-52fd-4aba-b1d2-28e4f0af2359
+1643458158420	Marionette	INFO	Listening on port 61386
+1643568161522	geckodriver	INFO	Listening on 127.0.0.1:49975
+1643568164785	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49976" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileer48Sl"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643568178971	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileer48Sl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49976/devtools/browser/87d6c5ff-f4ed-4167-a9cd-95b7b8e7b912
+1643568202902	Marionette	INFO	Listening on port 49985
+1643568203278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.e7c228bd635c45346d4c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.e7c228bd635c45346d4c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.e7c228bd635c45346d4c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.e7c228bd635c45346d4c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.e7c228bd635c45346d4c.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.e7c228bd635c45346d4c.js, line 1: TypeError: window.navigator.connection is undefined
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+1643569272968	geckodriver	INFO	Listening on 127.0.0.1:50166
+1643569276760	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50167" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileQYAuPC"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643569289129	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileQYAuPC\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:50167/devtools/browser/b31a27b3-0d60-40f1-97a9-c57a8e130f14
+1643569319636	Marionette	INFO	Listening on port 50174
+1643569320922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+1643569470516	Marionette	INFO	Stopped listening on port 50174
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643569492425	geckodriver	INFO	Listening on 127.0.0.1:50406
+1643569495667	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50407" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileiwAb5S"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643569501518	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileiwAb5S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50407/devtools/browser/aaebcf2d-f960-4d02-8896-4b059859e3a5
+1643569513439	Marionette	INFO	Listening on port 50416
+1643569514178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1643569810673	Marionette	INFO	Stopped listening on port 50416
+1643569852475	geckodriver	INFO	Listening on 127.0.0.1:50814
+1643569855707	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50815" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilen1itJm"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643569868323	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilen1itJm\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:50815/devtools/browser/b42871c3-5ce3-4cc0-838f-1302a143ff3e
+1643569893543	Marionette	INFO	Listening on port 50822
+1643569894527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+1643570037736	Marionette	INFO	Stopped listening on port 50822
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643570304535	geckodriver	INFO	Listening on 127.0.0.1:51181
+1643570308144	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51182" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilenuUZag"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643570316117	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilenuUZag\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:51182/devtools/browser/19ac3cfa-1536-4e67-b964-574383393fa0
+1643570352437	Marionette	INFO	Listening on port 51189
+1643570353731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+1643570636983	Marionette	INFO	Stopped listening on port 51189
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x59000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x140007,name=PBackgroundLSDatabase::Msg_RequestAllowToClose) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x59000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x59000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x59000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x59000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643570772707	geckodriver	INFO	Listening on 127.0.0.1:51546
+1643570775751	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51547" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilez6ACvj"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643570782180	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilez6ACvj\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:51547/devtools/browser/1b6832e5-12e0-483d-a627-4c4c4dd79794
+1643570812828	Marionette	INFO	Listening on port 51554
+1643570814906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+1643571112049	Marionette	INFO	Stopped listening on port 51554
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0148,name=PContent::Msg_ReportFrameTimingData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643572153603	geckodriver	INFO	Listening on 127.0.0.1:52411
+1643572156529	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52412" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileyxJ3AS"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643572158321	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileyxJ3AS\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:52412/devtools/browser/df031294-4c0c-4bd0-95e4-e158ccc9acef
+1643572170919	Marionette	INFO	Listening on port 52419
+1643572173068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+1643572256477	Marionette	INFO	Stopped listening on port 52419
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643572472233	geckodriver	INFO	Listening on 127.0.0.1:52689
+1643572476028	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52690" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilerHbvXc"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643572481521	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilerHbvXc\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:52690/devtools/browser/5a72824d-c677-4ba7-b8a5-a0364b781ee0
+1643572502858	Marionette	INFO	Listening on port 52705
+1643572504743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+1643572649137	Marionette	INFO	Stopped listening on port 52705
+1643573771703	geckodriver	INFO	Listening on 127.0.0.1:53832
+1643573775049	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53833" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile7j4uBh"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643573782276	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile7j4uBh\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:53833/devtools/browser/bf930948-8848-462b-a643-968dab9c6f53
+1643573814854	Marionette	INFO	Listening on port 53841
+1643573816870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+1643573982512	Marionette	INFO	Stopped listening on port 53841
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 13600, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 13600, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:565
+1643574095673	geckodriver	INFO	Listening on 127.0.0.1:54111
+1643574098746	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54112" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileS4gexZ"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643574102015	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileS4gexZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54112/devtools/browser/c142c96a-ba31-42e1-8832-8af48cb6694b
+1643574108527	Marionette	INFO	Listening on port 54119
+1643574109281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+1643574278208	Marionette	INFO	Stopped listening on port 54119
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643574815844	geckodriver	INFO	Listening on 127.0.0.1:54617
+1643574818836	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54618" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile4peOZq"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643574820604	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile4peOZq\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:54618/devtools/browser/f9c29876-bbe9-492b-a6ff-ff06606d0c7e
+1643574835361	Marionette	INFO	Listening on port 54627
+1643574838236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+1643574935011	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal2147483664/pagestyle34 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+1643575129167	geckodriver	INFO	Listening on 127.0.0.1:54898
+1643575132483	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54899" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileuittcs"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643575141392	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileuittcs\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:54899/devtools/browser/3f65c796-fa71-46ed-9ee6-d1064238e507
+1643575173004	Marionette	INFO	Listening on port 54906
+1643575174412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+1643575439785	Marionette	INFO	Stopped listening on port 54906
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 8264, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1643575480494	geckodriver	INFO	Listening on 127.0.0.1:55192
+1643575483485	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55193" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileLb8Dye"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643575485828	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileLb8Dye\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:55193/devtools/browser/8ccd2f29-e6ce-47c5-87c7-74f906aafcf8
+1643575499994	Marionette	INFO	Listening on port 55200
+1643575500083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.c135443e22baadb2ebfa.js, line 1: TypeError: window.navigator.connection is undefined
+1643575610357	Marionette	INFO	Stopped listening on port 55200
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0148,name=PContent::Msg_ReportFrameTimingData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643709349905	geckodriver	INFO	Listening on 127.0.0.1:49737
+1643709353387	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49738" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8jsG6p"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643709360933	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8jsG6p\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49738/devtools/browser/f8e4e9ff-4b40-499a-bc19-acb9280379ad
+1643709380225	Marionette	INFO	Listening on port 49747
+1643709380836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1643709642085	Marionette	INFO	Stopped listening on port 49747
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1643711212094	geckodriver	INFO	Listening on 127.0.0.1:50056
+1643711215179	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50057" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileNHLDbj"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643711217603	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileNHLDbj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50057/devtools/browser/8ba6b570-c18c-45d4-b95d-3e679f0751b8
+1643711223345	Marionette	INFO	Listening on port 50064
+1643711223591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+1643711356961	geckodriver	INFO	Listening on 127.0.0.1:50173
+1643711360025	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50174" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilecor7Dg"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643711360698	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilecor7Dg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50174/devtools/browser/aab00631-b2b4-4942-a7b9-0a6998690056
+1643711365043	Marionette	INFO	Listening on port 50180
+1643711365336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+1643711480374	Marionette	INFO	Stopped listening on port 50180
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1643711485412	geckodriver	INFO	Listening on 127.0.0.1:50286
+1643711488482	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50287" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilegmOFAn"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643711489315	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilegmOFAn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50287/devtools/browser/dd3de0ae-588e-436b-a10b-8123ac48c35b
+1643711493706	Marionette	INFO	Listening on port 50293
+1643711493755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+1643711541093	Marionette	INFO	Stopped listening on port 50293
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643711631485	geckodriver	INFO	Listening on 127.0.0.1:50399
+1643711634559	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50400" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile6IIm4v"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643711635388	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile6IIm4v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50400/devtools/browser/31f64722-6056-4590-8fec-aee4c98f1051
+1643711640040	Marionette	INFO	Listening on port 50405
+1643711640336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+1643711687816	Marionette	INFO	Stopped listening on port 50405
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643711749933	geckodriver	INFO	Listening on 127.0.0.1:50507
+1643711752990	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50508" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilew9krVD"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643711753845	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilew9krVD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50508/devtools/browser/b7dfb591-d564-445e-81cb-769175285d69
+1643711758066	Marionette	INFO	Listening on port 50513
+1643711758265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+1643711804758	Marionette	INFO	Stopped listening on port 50513
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643711936709	geckodriver	INFO	Listening on 127.0.0.1:50614
+1643711939766	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50615" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8DA58T"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643711940475	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8DA58T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50615/devtools/browser/e49f2de1-ea19-48ab-8c5f-cc1dc35e67a6
+1643711945000	Marionette	INFO	Listening on port 50620
+1643711945054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+1643711991029	Marionette	INFO	Stopped listening on port 50620
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643712661950	geckodriver	INFO	Listening on 127.0.0.1:50743
+1643712665018	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50744" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileYQ9Jjv"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643712665914	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileYQ9Jjv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50744/devtools/browser/956c0bec-e3ee-4016-b73c-a4568836858a
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+1643712670686	Marionette	INFO	Listening on port 50749
+1643712670828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/driver.js, line 2182: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1643712734732	geckodriver	INFO	Listening on 127.0.0.1:50780
+1643712737802	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50781" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileVSMswZ"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643712738421	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileVSMswZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50781/devtools/browser/f2e1afcb-3dfb-4d43-a7a0-3225372cf8a1
+1643712742818	Marionette	INFO	Listening on port 50786
+1643712743061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+1643712792606	Marionette	INFO	Stopped listening on port 50786
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1643712914477	geckodriver	INFO	Listening on 127.0.0.1:50890
+1643712917469	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50891" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileXEPAdH"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643712919796	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileXEPAdH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50891/devtools/browser/20d90a8e-5e03-4ff1-afd7-53ce6d88cfb0
+1643712924626	Marionette	INFO	Listening on port 50898
+1643712924881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+1643713196888	Marionette	INFO	Stopped listening on port 50898
+[Parent 20728, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1643726334417	geckodriver	INFO	Listening on 127.0.0.1:51028
+1643726337351	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51029" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileVpOBj6"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643726339358	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileVpOBj6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51029/devtools/browser/39b85aa7-ce72-4e37-9ff8-23a1b69ed17c
+1643726344361	Marionette	INFO	Listening on port 51035
+1643726344754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+1643726461590	geckodriver	INFO	Listening on 127.0.0.1:51154
+1643726464480	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51155" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile4vhbPp"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643726465591	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile4vhbPp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51155/devtools/browser/22ee0a21-087b-4ef7-94a1-f09131a1e54f
+1643726470155	Marionette	INFO	Listening on port 51160
+1643726470451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+1643726558298	Marionette	INFO	Stopped listening on port 51160
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1643726582972	geckodriver	INFO	Listening on 127.0.0.1:51271
+1643726585941	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51272" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileyJ66kY"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643726587229	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileyJ66kY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51272/devtools/browser/537bff56-b234-41dd-8579-d3b8ec96200f
+1643726591908	Marionette	INFO	Listening on port 51277
+1643726592238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+1643726645693	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643726659663	Marionette	INFO	Stopped listening on port 51277
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0148,name=PContent::Msg_ReportFrameTimingData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 4164, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:565
+1643732248209	geckodriver	INFO	Listening on 127.0.0.1:52657
+1643732251271	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52658" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile7WXVyc"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643732251949	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile7WXVyc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52658/devtools/browser/db748996-8f1f-473d-b21d-b0b67ea32e9c
+1643732256441	Marionette	INFO	Listening on port 52663
+1643732256537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+1643732306678	Marionette	INFO	Stopped listening on port 52663
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643732548492	geckodriver	INFO	Listening on 127.0.0.1:52778
+1643732551555	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52779" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilearVahA"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643732552296	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilearVahA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52779/devtools/browser/deb150ed-5182-4912-a7ea-418c2b3f7b66
+1643732556869	Marionette	INFO	Listening on port 52784
+1643732557368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+1643732611833	Marionette	INFO	Stopped listening on port 52784
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643732830584	geckodriver	INFO	Listening on 127.0.0.1:52898
+1643732833648	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52899" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile2iYI4u"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643732834484	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile2iYI4u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52899/devtools/browser/35caca66-3a1c-4cb1-8a3e-fdfef1f3ede1
+1643732839047	Marionette	INFO	Listening on port 52904
+1643732839411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+1643732932932	Marionette	INFO	Stopped listening on port 52904
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643732983211	geckodriver	INFO	Listening on 127.0.0.1:53005
+1643732986267	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53006" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilewNON1i"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643732986977	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilewNON1i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53006/devtools/browser/446a7378-30ef-4a7f-9816-cd83381552eb
+1643732992008	Marionette	INFO	Listening on port 53011
+1643732992060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+1643733139444	Marionette	INFO	Stopped listening on port 53011
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0148,name=PContent::Msg_ReportFrameTimingData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643733151086	geckodriver	INFO	Listening on 127.0.0.1:53139
+1643733154133	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53140" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilen0oHVK"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643733154916	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilen0oHVK\\search.json.mozlz4", (void 0)))
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643733466485	geckodriver	INFO	Listening on 127.0.0.1:53209
+1643733469550	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53210" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile6xjSJC"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643733470377	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile6xjSJC\\search.json.mozlz4", (void 0)))
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+[Parent 21764, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1643733500654	geckodriver	INFO	Listening on 127.0.0.1:53257
+1643733503715	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53258" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileTa5Qz8"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643733504576	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileTa5Qz8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53258/devtools/browser/2a686b66-6edb-4ff6-b19a-b3688fbd0940
+1643733508801	Marionette	INFO	Listening on port 53263
+1643733509059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+1643733558307	Marionette	INFO	Stopped listening on port 53263
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1643733775114	geckodriver	INFO	Listening on 127.0.0.1:53362
+1643733778164	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53363" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileolpHKB"
+JavaScript error: cpwixpzodke.cfg, line 2: ReferenceError: Components is not defined
+1643733778856	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileolpHKB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53363/devtools/browser/19b416c7-02ca-41d2-bc8e-2b846724aed7
+1643733783069	Marionette	INFO	Listening on port 53368
+1643733783427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+JavaScript error: https://opensea.io/_next/static/chunks/043db342f5396b5de41a54997a28c7989c309c80.8c9d5ecf5d94bb1a593f.js, line 1: TypeError: window.navigator.connection is undefined
+1643733832873	Marionette	INFO	Stopped listening on port 53368
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
