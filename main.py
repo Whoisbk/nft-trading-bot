@@ -25,9 +25,8 @@ def speak(text):
 
 #def email(message):#send message from the senders email to the reciever
 #    server = smtplib.SMTP('smtp.gmail.com',587)
-#    server.starttls()
- #   server.login("botshelolaka91@gmail.com","bk13@future")
-#  server.sendmail("botshelolaka91@gmail.com","beekayhuncho@gmail.com",message)
+#    server.starttls() 
+
 
 try:
         num_owners = WebDriverWait(driver,20).until(
